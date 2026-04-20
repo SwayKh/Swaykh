@@ -18,12 +18,12 @@
 
 ### Tools
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" **alt="Git" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" title="Docker" alt="Docker" width="60" 
   height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="60" height="60"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=neovim" title="Neovim" alt="Neovim" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Vs Code" alt="Vs Code" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" title="SSH" alt="SSH" width="60" height="60"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>&nbsp;
